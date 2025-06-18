@@ -1,5 +1,5 @@
 Print all even numbers between 1 and 100:
-
+-------------------------------------------------
 import java.util.Scanner;
 class Main {
     public static void main(String[] args){
