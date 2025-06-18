@@ -9,8 +9,8 @@ public class ArrayListProgram {
 		arr.add("A");
 		arr.add("Computer Science");
 		arr.add("3 year");
-		arr.add(0,"Hari");
-		arr.set(0,"John");
+		arr.add(0,"sana");
+		arr.set(0,"reha");
 		System.out.println(arr.get(1));
 		//for (type iterator:existing variable)
 		for(Object data:arr) {
